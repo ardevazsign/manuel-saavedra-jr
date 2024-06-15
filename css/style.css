@@ -145,9 +145,10 @@ li{
     color: #000000;
 }
 .summary > h2{
-    margin: 19px 0px 24px 50px;
+    text-align: center;
+    margin: 19px 0px 24px 40px;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 34px;
     line-height: 55px;
     color: #000000;
 }
